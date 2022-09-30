@@ -15,7 +15,7 @@ In supervised learning, a model is initiated, or a template for the algorithm is
 - Software: Python, Anaconda and Jupyter Notebook
 - Data Source: LoanStats_2019Q1.csv
 
-# Goal: Building up my skills in data preparation, statistical reasoning, and machine learning. SMOTEEN Algorithm
+###Goal: Building up my skills in data preparation, statistical reasoning, and machine learning. SMOTEEN Algorithm
 
 
 # Results
@@ -70,7 +70,7 @@ The balanced accuracy score improved to about 79%.
 The high_risk precision is still low at 4% only with 67% sensitivity which makes a F1 of only 7%.
 Due to a lower number of false positives, the low_risk sensitivity is now 91% with 100% presicion.
 
-<img width="568" alt="random_forest" src="https://github.com/acegal1/Credit_Risk_Analysis/blob/main/Resources/random_forest.png">
+![random_forest](https://github.com/acegal1/Credit_Risk_Analysis/blob/main/Resources/random_forest.png)
 
 
 - Easy Ensemble Classifying
@@ -81,7 +81,7 @@ Due to a lower number of false positives, the low_risk sensitivity is now 94% wi
 
 
 
-<img width="565" alt="easy_ensemble" src="https://github.com/acegal1/Credit_Risk_Analysis/blob/main/Resources/easy_ensemble.png">
+![easy_ensemble](https://github.com/acegal1/Credit_Risk_Analysis/blob/main/Resources/easy_ensemble.png)
 
 
 
