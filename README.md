@@ -15,7 +15,7 @@ In supervised learning, a model is initiated, or a template for the algorithm is
 - Software: Python, Anaconda and Jupyter Notebook
 - Data Source: LoanStats_2019Q1.csv
 
-###Goal: Building up my skills in data preparation, statistical reasoning, and machine learning. SMOTEEN Algorithm
+Goal: Building up my skills in data preparation, statistical reasoning, and machine learning. SMOTEEN Algorithm
 
 
 # Results
@@ -45,7 +45,7 @@ Due to the high number of the low_risk population, its precision is almost 100% 
 
 - ClusterCentroids Model
 
-![cluster_analysis](https://github.com/acegal1/Credit_Risk_Analysis/blob/main/Resources/cluster.png)
+![cluster_analysis](https://github.com/acegal1/Credit_Risk_Analysis/blob/main/Resources/Cluster.png)
 
 Here the balanced accuracy score is down to about 52%.
 The high_risk precision is still 1% only with 63% sensitivity which makes a F1 of 1%.
@@ -59,7 +59,7 @@ The balanced accuracy score is about 62%.
 The high_risk precision is still 1% only with 68% sensitivity which makes a F1 of only 2%.
 Due to the high number of false positives, the low_risk sensitivity is 57%.
 
-![combinational_analysis](https://github.com/acegal1/Credit_Risk_Analysis/blob/main/Resources/cominational.png)
+![combinational_analysis](https://github.com/acegal1/Credit_Risk_Analysis/blob/main/Resources/combinational.png)
 
 
 ### Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
