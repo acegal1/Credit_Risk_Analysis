@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-LoanStats_2019Q1.csv.zip
+LoanStats_2019Q1.csv
 
 # C extensions
 *.so
